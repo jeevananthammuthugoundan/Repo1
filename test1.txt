@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 12EF-C126
+
+ Directory of C:\Users\Harshika\Desktop\MyGitProject
+
+07-12-2021  17:35    <DIR>          .
+07-12-2021  17:35    <DIR>          ..
+07-12-2021  17:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  801,375,490,048 bytes free
+
+changes is done!
