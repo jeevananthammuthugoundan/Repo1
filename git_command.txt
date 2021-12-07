@@ -1,0 +1,18 @@
+git / git hub commands:
+-----------------------------
+
+git config --global user.email "jeevaalphalinx@gmail.com"
+git config --global user.name "jeevananthammuthugoundan"
+
+-------------------------------------
+-git init
+-git status
+-git add
+-git commit -m "added test1.tex"
+-git remote add origin https://github.com/jeevananthammuthugoundan/Repo1.git
+-git push -u origin master
+-git log
+-git --help
+
+------------------------------------------
+
